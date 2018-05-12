@@ -1,0 +1,9 @@
+
+
+Django==1.8.6
+Pillow==2.9.0
+celery==3.1.18
+flower
+django-paypal==0.2.5
+mysqlclient
+

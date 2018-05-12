@@ -1,0 +1,1 @@
+This is my test project.It uses django to build a demo online shop.
